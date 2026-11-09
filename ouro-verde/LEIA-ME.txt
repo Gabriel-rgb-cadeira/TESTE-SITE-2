@@ -1,0 +1,6 @@
+Ouro Verde Madeireira — nova identidade
+
+Para visualizar: abra index.html no navegador.
+Para editar: index.html, produtos.html, pinus.html, style.css e app.js.
+O arquivo ouro-verde.html reúne as três páginas e imagens em um único HTML.
+WhatsApp e Instagram precisam de conexão com a internet.
